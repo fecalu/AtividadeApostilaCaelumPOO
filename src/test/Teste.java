@@ -8,7 +8,8 @@ public class Teste {
 
         fabrica.fabricarCarro();
         
-
+        int testegit = 10;
+        
         FabricaDeCarro outraFabrica = FabricaDeCarro.getInstancia();
         
         
